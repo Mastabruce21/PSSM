@@ -14,6 +14,5 @@ sudo paccache -r
 sudo pacman -Sc
 echo "Thank you for using PSSM Version 0.1"
 read -rsp $'Press any key to continue...\n' -n1 key
-clear
 exit
 
