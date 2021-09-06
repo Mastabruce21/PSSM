@@ -1,5 +1,5 @@
-# PSSM-v-0.2
-Version 0.2
+# PSSM-v-0.3
+Version 0.3
 Pacman Self System Manintenance or "PSSM" is a script I wrote to help me keep pacman clean and upgraded, I thought others may find it useful
 cd into the directory where you save "PSSM.SH"
 run PSSM.SH using the following prompt: ./PSSM.SH
