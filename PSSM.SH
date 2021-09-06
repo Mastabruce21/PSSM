@@ -12,8 +12,7 @@ sudo pacman -Rns $(pacman -Qdtq)
 sudo pacman -Rsc
 sudo paccache -r
 sudo pacman -Sc
-echo "\n$(date "+%d-%m-%Y --- %T") --- Work ended\n"
+echo -e "\n$(date "+%d-%m-%Y --- %T") --- Work ended\n"
 echo "Thank you for using PSSM Version 0.2"
 read -rsp $'Press any key to continue...\n' -n1 key
 exit
-
